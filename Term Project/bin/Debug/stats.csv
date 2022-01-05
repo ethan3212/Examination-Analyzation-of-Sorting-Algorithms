@@ -1,0 +1,85 @@
+Method, Input Class, Average Loop Count, Average Time
+Insertion,C:\Users\ethan\source\repos\Term Project\Text Files\Double Random Numbers 100.txt,25,0.0143707317073171
+Bubble,C:\Users\ethan\source\repos\Term Project\Text Files\Double Random Numbers 100.txt,50,0.0908
+Shell,C:\Users\ethan\source\repos\Term Project\Text Files\Double Random Numbers 100.txt,7,0.0306219512195122
+Radix,C:\Users\ethan\source\repos\Term Project\Text Files\Double Random Numbers 100.txt,8,0.023869512195122
+Heap,C:\Users\ethan\source\repos\Term Project\Text Files\Double Random Numbers 100.txt,13,0.0221085365853658
+Merge,C:\Users\ethan\source\repos\Term Project\Text Files\Double Random Numbers 100.txt,11,0.0528951219512195
+Quick,C:\Users\ethan\source\repos\Term Project\Text Files\Double Random Numbers 100.txt,10,0.0202914634146342
+Insertion,C:\Users\ethan\source\repos\Term Project\Text Files\Random Numbers 100.txt,28,0.0230378048780488
+Bubble,C:\Users\ethan\source\repos\Term Project\Text Files\Random Numbers 100.txt,57,0.0864548780487805
+Shell,C:\Users\ethan\source\repos\Term Project\Text Files\Random Numbers 100.txt,7,0.0287439024390244
+Radix,C:\Users\ethan\source\repos\Term Project\Text Files\Random Numbers 100.txt,8,0.0180231707317073
+Heap,C:\Users\ethan\source\repos\Term Project\Text Files\Random Numbers 100.txt,14,0.0186560975609756
+Merge,C:\Users\ethan\source\repos\Term Project\Text Files\Random Numbers 100.txt,11,0.0522573170731707
+Quick,C:\Users\ethan\source\repos\Term Project\Text Files\Random Numbers 100.txt,10,0.0221634146341463
+Insertion,C:\Users\ethan\source\repos\Term Project\Text Files\Reverse Sorted Numbers 100.txt,60,0.0442085365853659
+Bubble,C:\Users\ethan\source\repos\Term Project\Text Files\Reverse Sorted Numbers 100.txt,120,0.140637804878049
+Shell,C:\Users\ethan\source\repos\Term Project\Text Files\Reverse Sorted Numbers 100.txt,7,0.0472134146341463
+Radix,C:\Users\ethan\source\repos\Term Project\Text Files\Reverse Sorted Numbers 100.txt,8,0.0171890243902439
+Heap,C:\Users\ethan\source\repos\Term Project\Text Files\Reverse Sorted Numbers 100.txt,12,0.0210829268292683
+Merge,C:\Users\ethan\source\repos\Term Project\Text Files\Reverse Sorted Numbers 100.txt,11,0.0426926829268293
+Quick,C:\Users\ethan\source\repos\Term Project\Text Files\Reverse Sorted Numbers 100.txt,64,0.125854878048781
+Insertion,C:\Users\ethan\source\repos\Term Project\Text Files\Sorted Numbers 100.txt,0,0.000820731707317074
+Bubble,C:\Users\ethan\source\repos\Term Project\Text Files\Sorted Numbers 100.txt,0,0.000867073170731707
+Shell,C:\Users\ethan\source\repos\Term Project\Text Files\Sorted Numbers 100.txt,7,0.030240243902439
+Radix,C:\Users\ethan\source\repos\Term Project\Text Files\Sorted Numbers 100.txt,8,0.0181987804878049
+Heap,C:\Users\ethan\source\repos\Term Project\Text Files\Sorted Numbers 100.txt,15,0.0240621951219512
+Merge,C:\Users\ethan\source\repos\Term Project\Text Files\Sorted Numbers 100.txt,11,0.023609756097561
+Quick,C:\Users\ethan\source\repos\Term Project\Text Files\Sorted Numbers 100.txt,3,0.0303512195121951
+Insertion,C:\Users\ethan\source\repos\Term Project\Text Files\Double Random Numbers 500.txt,766,0.429801219512195
+Bubble,C:\Users\ethan\source\repos\Term Project\Text Files\Double Random Numbers 500.txt,1533,2.81333048780488
+Shell,C:\Users\ethan\source\repos\Term Project\Text Files\Double Random Numbers 500.txt,42,0.37775243902439
+Radix,C:\Users\ethan\source\repos\Term Project\Text Files\Double Random Numbers 500.txt,43,0.114987804878049
+Heap,C:\Users\ethan\source\repos\Term Project\Text Files\Double Random Numbers 500.txt,90,0.13615
+Merge,C:\Users\ethan\source\repos\Term Project\Text Files\Double Random Numbers 500.txt,73,0.395731707317073
+Quick,C:\Users\ethan\source\repos\Term Project\Text Files\Double Random Numbers 500.txt,81,0.18374756097561
+Insertion,C:\Users\ethan\source\repos\Term Project\Text Files\Random Numbers 500.txt,139,0.423450655021834
+Bubble,C:\Users\ethan\source\repos\Term Project\Text Files\Random Numbers 500.txt,278,2.6161056768559
+Shell,C:\Users\ethan\source\repos\Term Project\Text Files\Random Numbers 500.txt,7,0.325649126637554
+Radix,C:\Users\ethan\source\repos\Term Project\Text Files\Random Numbers 500.txt,7,0.0822045851528384
+Heap,C:\Users\ethan\source\repos\Term Project\Text Files\Random Numbers 500.txt,16,0.187498689956332
+Merge,C:\Users\ethan\source\repos\Term Project\Text Files\Random Numbers 500.txt,13,0.353713318777293
+Quick,C:\Users\ethan\source\repos\Term Project\Text Files\Random Numbers 500.txt,12,0.231596288209607
+Insertion,C:\Users\ethan\source\repos\Term Project\Text Files\Reverse Sorted Numbers 500.txt,272,1.09158558951965
+Bubble,C:\Users\ethan\source\repos\Term Project\Text Files\Reverse Sorted Numbers 500.txt,544,5.64142663755459
+Shell,C:\Users\ethan\source\repos\Term Project\Text Files\Reverse Sorted Numbers 500.txt,7,0.613117467248908
+Radix,C:\Users\ethan\source\repos\Term Project\Text Files\Reverse Sorted Numbers 500.txt,7,0.12460807860262
+Heap,C:\Users\ethan\source\repos\Term Project\Text Files\Reverse Sorted Numbers 500.txt,15,0.158870524017467
+Merge,C:\Users\ethan\source\repos\Term Project\Text Files\Reverse Sorted Numbers 500.txt,13,0.247051965065502
+Quick,C:\Users\ethan\source\repos\Term Project\Text Files\Reverse Sorted Numbers 500.txt,276,2.52649192139738
+Insertion,C:\Users\ethan\source\repos\Term Project\Text Files\Sorted Numbers 500.txt,0,0.00340567685589521
+Bubble,C:\Users\ethan\source\repos\Term Project\Text Files\Sorted Numbers 500.txt,0,0.00203558951965065
+Shell,C:\Users\ethan\source\repos\Term Project\Text Files\Sorted Numbers 500.txt,7,0.1238596069869
+Radix,C:\Users\ethan\source\repos\Term Project\Text Files\Sorted Numbers 500.txt,7,0.107310043668122
+Heap,C:\Users\ethan\source\repos\Term Project\Text Files\Sorted Numbers 500.txt,17,0.166228384279476
+Merge,C:\Users\ethan\source\repos\Term Project\Text Files\Sorted Numbers 500.txt,13,0.29924519650655
+Quick,C:\Users\ethan\source\repos\Term Project\Text Files\Sorted Numbers 500.txt,3,0.794846943231441
+Insertion,C:\Users\ethan\source\repos\Term Project\Text Files\Double Random Numbers 1000.txt,537,2.04718362445415
+Bubble,C:\Users\ethan\source\repos\Term Project\Text Files\Double Random Numbers 1000.txt,1075,15.8186967248908
+Shell,C:\Users\ethan\source\repos\Term Project\Text Files\Double Random Numbers 1000.txt,17,1.15413515283843
+Radix,C:\Users\ethan\source\repos\Term Project\Text Files\Double Random Numbers 1000.txt,19,0.325994323144105
+Heap,C:\Users\ethan\source\repos\Term Project\Text Files\Double Random Numbers 1000.txt,35,0.418069650655022
+Merge,C:\Users\ethan\source\repos\Term Project\Text Files\Double Random Numbers 1000.txt,28,1.0029115720524
+Quick,C:\Users\ethan\source\repos\Term Project\Text Files\Double Random Numbers 1000.txt,25,0.453801528384279
+Insertion,C:\Users\ethan\source\repos\Term Project\Text Files\Random Numbers 1000.txt,536,2.63702620087336
+Bubble,C:\Users\ethan\source\repos\Term Project\Text Files\Random Numbers 1000.txt,1073,12.8361253275109
+Shell,C:\Users\ethan\source\repos\Term Project\Text Files\Random Numbers 1000.txt,17,0.966488864628821
+Radix,C:\Users\ethan\source\repos\Term Project\Text Files\Random Numbers 1000.txt,19,0.337776419213973
+Heap,C:\Users\ethan\source\repos\Term Project\Text Files\Random Numbers 1000.txt,36,0.426889301310043
+Merge,C:\Users\ethan\source\repos\Term Project\Text Files\Random Numbers 1000.txt,28,0.784374672489082
+Quick,C:\Users\ethan\source\repos\Term Project\Text Files\Random Numbers 1000.txt,31,0.428251746724891
+Insertion,C:\Users\ethan\source\repos\Term Project\Text Files\Reverse Sorted Numbers 1000.txt,531,3.95920265957446
+Bubble,C:\Users\ethan\source\repos\Term Project\Text Files\Reverse Sorted Numbers 1000.txt,1062,21.040454893617
+Shell,C:\Users\ethan\source\repos\Term Project\Text Files\Reverse Sorted Numbers 1000.txt,8,1.50961670212766
+Radix,C:\Users\ethan\source\repos\Term Project\Text Files\Reverse Sorted Numbers 1000.txt,9,0.292879255319149
+Heap,C:\Users\ethan\source\repos\Term Project\Text Files\Reverse Sorted Numbers 1000.txt,16,0.34133170212766
+Merge,C:\Users\ethan\source\repos\Term Project\Text Files\Reverse Sorted Numbers 1000.txt,13,0.890146808510638
+Quick,C:\Users\ethan\source\repos\Term Project\Text Files\Reverse Sorted Numbers 1000.txt,535,13.1639391489362
+Insertion,C:\Users\ethan\source\repos\Term Project\Text Files\Sorted Numbers 1000.txt,0,0.0186298936170212
+Bubble,C:\Users\ethan\source\repos\Term Project\Text Files\Sorted Numbers 1000.txt,0,0.0109678723404257
+Shell,C:\Users\ethan\source\repos\Term Project\Text Files\Sorted Numbers 1000.txt,8,0.523247659574468
+Radix,C:\Users\ethan\source\repos\Term Project\Text Files\Sorted Numbers 1000.txt,9,0.301209680851064
+Heap,C:\Users\ethan\source\repos\Term Project\Text Files\Sorted Numbers 1000.txt,18,0.315487127659575
+Merge,C:\Users\ethan\source\repos\Term Project\Text Files\Sorted Numbers 1000.txt,13,0.710948297872341
+Quick,C:\Users\ethan\source\repos\Term Project\Text Files\Sorted Numbers 1000.txt,3,3.03886712765957
